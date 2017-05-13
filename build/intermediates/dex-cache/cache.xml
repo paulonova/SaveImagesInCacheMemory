@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ONLINE_PIZZA\LYNDA_COM\Exercise Files\Ch04\04_04\CacheImages\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\ONLINE_PIZZA\LYNDA_COM\Exercise Files\Ch04\04_04\CacheImages\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7a72d7b9a99456e8bcd15bf1c6820427aee727ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ONLINE_PIZZA\LYNDA_COM\Exercise Files\Ch04\04_04\CacheImages\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5726d49e443f4d7ee00e4f0c1d19eedbee3fa3b9">
+        <dex dex="D:\ONLINE_PIZZA\LYNDA_COM\Exercise Files\Ch04\04_04\CacheImages\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_30108e5c870a765c9aab0345b3fab485cbf90a3b\classes.dex" />
+    </item>
+
+</items>
